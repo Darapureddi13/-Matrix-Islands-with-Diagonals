@@ -1,5 +1,4 @@
 # -Matrix-Islands-with-Diagonals
-Island Counter
 Description
 This program counts the number of islands in a 2D matrix where islands are groups of adjacent 1s connected horizontally, vertically, or diagonally.
 
